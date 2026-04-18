@@ -49,5 +49,4 @@ try:
     plt.show()
 
 except Exception as e:
-    # 這就是剛才缺少的部分：如果 try 裡面的程式出錯了，會執行這裡
     print(f"程式執行過程中發生錯誤：{e}")
