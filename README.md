@@ -15,4 +15,5 @@
    python -m venv .venv
    .\venv\Scripts\activate
 2. **安裝必要函式庫：**
+   ```bash
    pip install requests pandas matplotlib
